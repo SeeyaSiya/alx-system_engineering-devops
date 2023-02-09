@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e '#!/bin/bash\nusername=$(whoami)\necho "$username"' >> 1-who_am_i
+whoami
