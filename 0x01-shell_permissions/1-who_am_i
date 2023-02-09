@@ -1,2 +1,2 @@
 #!/bin/bash
-root@3f1311cde20d
+echo "$(whoami)"
